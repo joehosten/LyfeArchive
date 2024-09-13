@@ -1,0 +1,149 @@
+{
+  "_id": "items",
+  "items": {
+    "book": {
+      "description": "Book",
+      "rarity": "common",
+      "emoji": ":book:",
+      "value": {
+        "$numberInt": "100"
+      },
+      "name": "Book"
+    },
+    "shoppingcart": {
+      "description": "A place to call home, for now..",
+      "rarity": "common",
+      "emoji": ":shopping_cart: ",
+      "value": {
+        "$numberInt": "10"
+      },
+      "name": "Shopping Cart"
+    },
+    "frog": {
+      "description": "Ribbit",
+      "emoji": ":frog:",
+      "value": {
+        "$numberInt": "25"
+      },
+      "name": "Frog",
+      "rarity": "rare"
+    },
+    "id": {
+      "name": "ID",
+      "rarity": "common",
+      "description": "Use this to get a job!",
+      "value": {
+        "$numberInt": "500"
+      },
+      "emoji": ":card_index:"
+    },
+    "gun": {
+      "name": "Gun",
+      "rarity": "rare",
+      "description": "Gun go pewpew",
+      "value": {
+        "$numberInt": "1000"
+      },
+      "emoji": ":gun:"
+    },
+    "dynamite": {
+      "name": "Dynamite",
+      "rarity": "rare",
+      "description": "Blow someone up!",
+      "value": {
+        "$numberInt": "700"
+      },
+      "emoji": ":firecracker:"
+    },
+    "key": {
+      "name": "Key",
+      "rarity": "rare",
+      "description": "Opens stuff",
+      "value": {
+        "$numberInt": "1200"
+      },
+      "emoji": ":key:"
+    },
+    "lock": {
+      "name": "Lock",
+      "rarity": "uncommon",
+      "value": {
+        "$numberInt": "1000"
+      },
+      "emoji": ":lock:",
+      "description": "Lock your items!"
+    },
+    "bomb": {
+      "name": "Bomb",
+      "rarity": "uncommon",
+      "value": {
+        "$numberInt": "2500"
+      },
+      "emoji": ":bomb:",
+      "description": "Bomb someone's bank!"
+    },
+    "fire": {
+      "name": "Fire",
+      "rarity": "rare",
+      "value": {
+        "$numberInt": "2300"
+      },
+      "emoji": ":fire:",
+      "description": "Burn someone's item!"
+    },
+    "axe": {
+      "name": "Axe",
+      "rarity": "rare",
+      "value": {
+        "$numberInt": "700"
+      },
+      "emoji": ":axe:",
+      "description": "Break someone's lock on an item!"
+    },
+    "dragon": {
+      "name": "Dragon",
+      "rarity": "rare",
+      "value": {
+        "$numberInt": "2000"
+      },
+      "emoji": ":dragon:",
+      "description": "Rawr!"
+    },
+    "evolveddragon": {
+      "name": "Evolved Dragon",
+      "rarity": "ultra rare",
+      "value": {
+        "$numberInt": "-1"
+      },
+      "emoji": ":dragon_face:",
+      "description": "A super duper epic dragon!"
+    },
+    "sponge": {
+      "name": "Sponge",
+      "rarity": "common",
+      "value": {
+        "$numberInt": "10"
+      },
+      "emoji": ":sponge:",
+      "description": "Squeaky Clean! Use this to protect your banks!"
+    },
+    "crystal": {
+      "name": "Crystal",
+      "rarity": "rare",
+      "value": {
+        "$numberInt": "2000"
+      },
+      "emoji": ":gem:",
+      "description": "Oohh shiny!"
+    },
+    "hammer": {
+      "name": "Hammer",
+      "rarity": "rare",
+      "value": {
+        "$numberInt": "500"
+      },
+      "emoji": ":hammer:",
+      "description": "Hit things with this!"
+    }
+  }
+}
